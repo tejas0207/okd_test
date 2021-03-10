@@ -1,1 +1,6 @@
-hello sucessful
+<?php
+
+print "hello";
+
+?>
+     
